@@ -1,1 +1,0 @@
-{"id":"unitcrew.combo.best","name":"Best (combinable filters)","description":"Prototype: genre + year + country dropdowns that combine.","lists":[{"id":"best-movies","type":"movie","name":"Best movies (combinable)","path":"x/best/movie"},{"id":"best-series","type":"series","name":"Best series (combinable)","path":"x/best/series"}]}
