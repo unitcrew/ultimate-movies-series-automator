@@ -24,7 +24,7 @@ The lists update by themselves every time they're published, so you don't need t
 ### ② Run your own copy (make your own playlists)
 The **Playlist Automator** is a small Windows app that runs on your PC. It builds playlists with your own filters (rating, votes, Letterboxd score, country, language, decade, runtime, genre, type, awards, streaming service, hide what you've seen…) and publishes them to your own Stremio.
 
-1. **[Download the app (.zip)](https://github.com/unitcrew/ultimate-movies-series-automator/releases/latest)**
+1. **[Download the app (.zip)](https://unitcrew.github.io/ultimate-movies-series-automator/app/playlist-automator.zip)** (always the newest version; also on the [Releases](https://github.com/unitcrew/ultimate-movies-series-automator/releases) page)
 2. Unzip it anywhere, for example in Documents.
 3. Double-click **`Start.bat`**. The first time, it installs Node.js for you (free) and opens the app in your browser.
 4. Build your playlists and press **Install in Stremio**.
